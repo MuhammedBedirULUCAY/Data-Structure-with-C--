@@ -1,10 +1,14 @@
 Push some data:
+
 strawberry -> melon -> grape -> orange -> banana -> apple
 
-Pop 2 data
+Pop 2 data :
+
 grape -> orange -> banana -> apple
 
-Peek operation
+Peek operation : 
+
 grape
-current List
+current List : 
+
 grape -> orange -> banana -> apple
