@@ -14,7 +14,7 @@ Node* BinarySearchTree::add(Node* root,int _data){
 
     if(root == nullptr)
         return new Node(_data);
-
+   
     if(root->data < _data)
         root->right = add(root->right, _data);
 
